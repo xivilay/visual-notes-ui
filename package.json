@@ -1,6 +1,6 @@
 {
-    "name": "react-juce-chord-recognition",
-    "version": "0.1.0",
+    "name": "visual-notes",
+    "version": "0.0.1",
     "private": true,
     "dependencies": {
         "react": "^16.13.1",
