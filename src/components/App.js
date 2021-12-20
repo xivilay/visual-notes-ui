@@ -1,6 +1,5 @@
 import React, { Component } from 'react';
 import { View } from 'react-juce';
-import Note from './Note';
 import Spiral from './Spiral';
 
 class App extends Component {
@@ -13,7 +12,6 @@ class App extends Component {
             <View {...styles.container}>
                 <View {...styles.content}>
                     <Spiral />
-                    <Note {...styles.content} />
                 </View>
             </View>
         );
